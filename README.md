@@ -1,0 +1,1 @@
+Bu program kullanıcıdan bir sayı alır ve bu sayının palindrom olup olmadığını kontrol eder. Eğer sayı palindrom ise ekrana "bir palindrom sayıdır" mesajını basar, değilse "bir palindrom sayı değildir" mesajını basar.
